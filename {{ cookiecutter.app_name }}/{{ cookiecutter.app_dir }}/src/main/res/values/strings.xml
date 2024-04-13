@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">{{ cookiecutter.app_name }}</string>
+    <string name="minha_menssagem">Engenharia UERJ</string>
+</resources>
